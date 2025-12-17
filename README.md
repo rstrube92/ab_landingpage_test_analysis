@@ -37,7 +37,8 @@ Since the P-value ($0.1892$) is much greater than the standard significance leve
 
 The visualization below confirms that the $95\%$ Confidence Intervals for both groups overlap significantly. This visual proof reinforces the P-value finding: the true conversion rates of the new and old pages are likely within the same range, and thus, the new page does not offer a reliable lift.
 
-![A/B Test Confidence Interval Plot](ab_test_confidence_intervals.png)
+<img width="717" height="471" alt="image" src="https://github.com/user-attachments/assets/f71a9696-5c78-4300-87cc-8fe376008f68" />
+
 
 ---
 
